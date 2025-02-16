@@ -1,5 +1,18 @@
-# Path Planning for Concentric Surgical Needles based on Artificial Potential Field driven Simulated
-
+# Path Planning for Concentric Surgical Needles based on Artificial Potential Field
+[IEEE Xpolre](https://ieeexplore.ieee.org/document/10865658/authors#authors)
+## Citation
+```
+@INPROCEEDINGS{10865658,
+  author={Zhang, Jing and Yuan, Jieting and Ye, Yongyin and Wang, Xiyu and Wu, Xiyun and Pan, Zhijie and Li, Mengtang},
+  booktitle={2024 China Automation Congress (CAC)}, 
+  title={Path Planning for Concentric Surgical Needles based on Artificial Potential Field}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={606-611},
+  keywords={Accuracy;Simulation;Prototypes;Simulated annealing;Needles;Cost function;Path planning;Real-time systems;Safety;Robots;Robot modeling;Path planning;Surgical needle;Artificial potential field},
+  doi={10.1109/CAC63892.2024.10865658}}
+```
 ## Run
 - Run `oneEx.m` to generate the path for needle. Environment can be changed in `line 5`
 - Run `e1/2/3_loop.m` to get statistical results
